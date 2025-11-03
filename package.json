@@ -1,0 +1,21 @@
+{
+  "name": "crack-and-combat",
+  "version": "1.0.0",
+  "description": "Crack and Combat - A trivia game",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["trivia", "game", "node"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.0",
+    "socket.io": "^4.7.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
