@@ -15,7 +15,7 @@ A real-time multiplayer trivia game built with Node.js, Express, and Socket.IO.
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/crack-and-combat.git
+   git clone https://github.com/mumair738/crackbot.git
    cd crack-and-combat
    ```
 
